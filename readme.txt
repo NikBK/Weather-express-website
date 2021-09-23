@@ -14,7 +14,6 @@
 
 6> weatherstack api : 
             BASIC_URL = http://api.weatherstack.com/
-            ACCESS_KEY = 4217300b268548725545ae2b248eaba0
     HOW_IT_LOOKS 
         http://api.weatherstack.com/current
             ? access_key = YOUR_ACCESS_KEY
@@ -29,7 +28,6 @@
                         + address
                         + ACCESS_KEY
                         + &limit=1
-            ACCESS_KEY = pk.eyJ1IjoibmlraGlsLWJrIiwiYSI6ImNrdGl6dTN5ajAwaWMyb3V5MjN0NGo3ZzUifQ.0Kd5v4P5ISxhR75TyXVzrQ
     HOW_IT_LOOKS 
         https://api.mapbox.com/geocoding/v5/mapbox.places/
                     + address
